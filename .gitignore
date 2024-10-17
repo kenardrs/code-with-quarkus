@@ -39,9 +39,6 @@ nb-configuration.xml
 # Target dir
 ./target
 
-# MavenWrapper
-.mvnw
-
 # Coverage reports
 ./htmlReport
 
