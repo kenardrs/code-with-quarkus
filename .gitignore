@@ -8,7 +8,7 @@
 ./htmlReport
 
 # IDE dir
-./.idea
+.idea*
 
 # Compiled class file
 *.class
