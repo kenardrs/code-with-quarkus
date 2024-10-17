@@ -7,6 +7,9 @@
 # Coverage reports
 ./htmlReport
 
+# IDE dir
+./.idea
+
 # Compiled class file
 *.class
 
