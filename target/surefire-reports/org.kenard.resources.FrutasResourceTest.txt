@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.kenard.resources.FrutasResourceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.867 s -- in org.kenard.resources.FrutasResourceTest

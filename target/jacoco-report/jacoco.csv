@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+code-with-quarkus,org.kenard.resources,FrutasResource,5,7,0,0,2,2,1,2,1,2
+code-with-quarkus,org.kenard.models,InserirFrutaDTO,17,0,0,0,7,0,5,0,5,0
+code-with-quarkus,org.kenard.models,Fruta,0,3,0,0,0,1,0,1,0,1
+code-with-quarkus,org.kenard.services,FrutasService,15,7,0,0,5,2,1,2,1,2
